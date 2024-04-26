@@ -1,4 +1,4 @@
-#Enhanced MedNeRF
+# Enhancing MedNeRF
 
 
 ## MedNeRF
