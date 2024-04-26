@@ -15,7 +15,7 @@ An <em>instance</em> comprehends 72 DRRs (each at 5 degrees) from a 360 degree r
 
 
 ## Train a model
-Refer to graf-main folder and execute, replacing CONFIG.yaml with knee.yaml or chest.yaml
+Refer to graf-main folder and execute, replacing CONFIG.yaml with knee.yaml
 ```
 python train.py configs/CONFIG.yaml
 ```
