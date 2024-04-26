@@ -11,8 +11,6 @@ Accepted at IEEE EMBC 2022
 An <em>instance</em> comprehends 72 DRRs (each at 5 degrees) from a 360 degree rotation of a real CT scan.
 
 
-`chest_xrays` all images of the 20 chest instances (.png, res. 128x128).
-
 `knee_xrays` all images of the 5 knee instances (.png, res. 128x128)
 
 
@@ -65,17 +63,3 @@ Replace the following variables within the file:
 ## Acknowledgments
 
 This codebase is heavily based on the [GRAF](https://github.com/autonomousvision/graf) code base.
-
-
-## Citation
-MedNeRF cite
-```bash
-@misc{coronafigueroa2022mednerf,
-      title={MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray}, 
-      author={Abril Corona-Figueroa and Jonathan Frawley and Sam Bond-Taylor and Sarath Bethapudi and Hubert P. H. Shum and Chris G. Willcocks},
-      year={2022},
-      eprint={2202.01020},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}
-```
