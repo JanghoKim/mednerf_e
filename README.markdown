@@ -1,5 +1,7 @@
-# MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray
+#Enhanced MedNeRF
 
+
+## MedNeRF
 [Paper](https://arxiv.org/abs/2202.01020)
 Accepted at IEEE EMBC 2022
 
